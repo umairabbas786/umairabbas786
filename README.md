@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @umairabbas786
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Laravel and Artificial Intelligence
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Whatsapp: +923027064542
 
 <!---
