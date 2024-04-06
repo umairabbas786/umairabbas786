@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Umair Abbas</h1>
-<h3 align="center">A passionate Full Stack Website and Application Developer from Pakistan.</h3>
 
 
 ## 🌐 Socials:
